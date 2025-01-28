@@ -4,10 +4,10 @@ A small LAS data analysis python project by Piotr Ostaszewski (325697) matching 
 # Scripts
 1. class compare.py - Reads a LAS file, displays point count per class (based on ASPRS classification) and open3d visualisation of the whole point cloud. The same color palette used in both the chart and the visualization.
 
-* Command line arguments:
+Command line arguments:
 - path to LAS dataset
 
-* Dependencies:
+Dependencies:
 - laspy[laszip]
 - open3d
 - numpy
